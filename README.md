@@ -2,7 +2,7 @@
 
 Can satellite imagery predict stock prices? This project uses Google Earth Engine + YOLOv11 to measure cargo aircraft activity at major U.S. logistics hubs and correlates it with FedEx/UPS stock performance.
 
-**🥇 1st Place — AI Community Datathon 2026, Finance & Economics Track**
+**🥇 1st Place — SBU Datathon 2026, Finance & Economics Track**
 
 ## Hypothesis
 
